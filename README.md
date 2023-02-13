@@ -5,7 +5,7 @@
 
 <br/>
 
-Sou desenvolvedor Front-End em busca da minha primeira vaga de emprego, e aqui estão as tecnlogias que eu mais usei nesse processo, e alguns projetos feitos por mim ao longo dessa trajetória de 8 meses.
+Sou desenvolvedor Front-End em busca da minha primeira vaga de emprego, e aqui estão as tecnlogias e projetos feitos por mim ao longo dessa trajetória de 8 meses.
 
 ## Most used technologies
 
