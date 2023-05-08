@@ -5,7 +5,7 @@
 
 <br/>
 
-Sou desenvolvedor Front-End em busca da minha primeira vaga de emprego, e aqui estão as tecnlogias e projetos feitos por mim ao longo dessa trajetória de 8 meses.
+Como desenvolvedor web full-stack, sou especializado em criar aplicações web completas, desde a interface do usuário até a lógica de negócios do servidor. Eu tenho experiência em trabalhar com diversas tecnologias, incluindo HTML, CSS, JavaScript, frameworks como React e Typescript, e linguagens de programação como Node.js e Python.
 
 ## Most used technologies
 
