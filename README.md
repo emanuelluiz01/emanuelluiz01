@@ -5,7 +5,7 @@
 
 <br/>
 
-Como desenvolvedor web full-stack, sou especializado em criar aplicações web completas, desde a interface do usuário até a lógica de negócios do servidor. Eu tenho experiência em trabalhar com diversas tecnologias, incluindo HTML, CSS, JavaScript, frameworks como React e Typescript, e linguagens de programação como Node.js e Python.
+Desenvolvedor web Full-Stack apaixonado por criar experiências interativas e inovadoras para usuários na web. Possuo fortes habilidades em HTML, CSS e JavaScript, tanto quanto em React, Typescript e Next na parte do front-end, bem como um entendimento sólido dos princípios de design de interface do usuário e da arquitetura de informação além de habilidades em Node, Python e PHP em back-end. Estou procurando por uma oportunidade para trabalhar com uma equipe dinâmica e aprender continuamente enquanto ajudo a construir soluções incríveis.
 
 ## Most used technologies
 
