@@ -1,11 +1,9 @@
 ## Olá! Eu sou Emanuel Luiz 👋
 
-**QA Engineer** @ Panda Video · Background em desenvolvimento Full-Stack
+**QA Engineer**
 
 Hoje meu foco é qualidade de software: automação de testes e estratégias de QA. Uso minha bagagem como dev para escrever testes mais robustos e entender a fundo o que estou testando.
-
 <br/>
-
 ### 🔍 Testing & QA
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -20,9 +18,7 @@ Hoje meu foco é qualidade de software: automação de testes e estratégias de 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 <br/>
-
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelluiz/)
